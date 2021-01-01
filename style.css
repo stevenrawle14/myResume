@@ -41,9 +41,11 @@
             border-width: 15px;
         
             }
-        
+        #company {
+            font-weight:bold;
+        } 
 
-            @media all and (max-width:600px) {
+        @media all and (max-width:600px) {
                 h1,h2,h3,h4,h5 {
             font-family: fantasy;
             font-size:35px;
@@ -87,6 +89,10 @@
             border-width: 15px;
         
         }
+        
+        #company {
+            font-weight:bold;
+        } 
         }
         
     
